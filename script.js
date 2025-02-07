@@ -5,3 +5,5 @@ document.querySelector('.ask-btn').addEventListener('click', function() {
 document.querySelector('.create-btn').addEventListener('click', function() {
     alert('새 3D 맵을 생성하는 페이지로 이동합니다.');
 });
+안녕하세요
+
